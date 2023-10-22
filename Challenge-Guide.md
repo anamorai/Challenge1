@@ -1,42 +1,78 @@
-# Challenge Guide
+# Acceptance Criteria
 
-Each week, your instructors and TAs will provide a demonstration of the challenge in the classroom.
+Your website must meet accessibility standards. You can achieve this completing the following:
 
-## How to Work on the Challenge
+* Semantic HTML elements can be found throughout the source code
+* HTML elements follow a logical structure independent of styling and positioning
+* Image and icon elements contain accessible `alt` attributes
+* Heading attributes fall in sequential order
 
-Challenge is designed to prepare you for two scenarios that you will encounter as a developer:
 
-* On-the-job tickets or feature requests
+### Resources:
 
-* Job-seeking coding assessments
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
-On-the-job ticket challenge will provide you with starter code. You’ll modify or add to this code to complete the challenge.
+### Mock-Up
 
-Job-seeking coding assessments do not provide starter code. You’ll build these from scratch.
+The following image shows the web application's appearance and functionality:
 
-All of the challenge assignments follow agile project management conventions, providing a user story, acceptance criteria, a mock-up demonstrating the application functionality, and review guidelines. 
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
 
-### User Story
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
-Part of being a developer is putting yourself in the shoes of your audience and imagining their experience with the application you’re creating. 
+### Requirements
 
-A user story, or persona, is a description of an application using natural, non-technical language. Written from the perspective of the application’s end user, they help developers organize their work by allowing them to understand an application’s context and who will be using it.
+This challenge is assessed on the following criteria: 
 
-### Acceptance Criteria
+#### Technical Acceptance Criteria: 40%
 
-Acceptance criteria are the requirements that must be met to complete a user story. They define the boundaries of the user story and are used to confirm when a story is completed.
+* Satisfies all of the above acceptance criteria plus the following code improvements:
 
-These criteria can be thought of as instructions for how you should complete a challenge assignment. As you plan how to build the application, use them to structure your pages and pseudocode your logic. As you’re working, look back at the list of acceptance criteria to make sure you’ve met all of them. An application is complete only when it meets all of these criteria.
+  * Application's links all function correctly.
+
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+  * Application's CSS file is properly commented.
+
+#### Deployment: 32%
+
+* Application deployed at live URL.
+
+* Application loads with no errors.
+
+* Application GitHub URL submitted.
+
+* GitHub repository that contains application code.
+
+#### Application Quality: 15%
+
+* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+
+#### Repository Quality: 13%
+
+* Repository has a unique name.
+
+* Repository follows best practices for file structure and naming conventions.
+
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+* Repository contains multiple descriptive commit messages.
+
+* Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Review
 
-In the real world, when a developer finishes working on an issue, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For the challenge assignments, your TAs will serve as your reviewers.
-
-To submit your application for review, you are required to provide the following:
+You are required to submit the following for review:
 
 * The URL of the deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+To submit your application for review, you are required to provide the following:
+
+* The URL of the deployed application.
+
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.

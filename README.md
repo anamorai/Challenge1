@@ -1,8 +1,13 @@
 # Horiseon Code Refractor
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
 
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+I have been tasked with modifying the starter code for Horiseon marketing agency website to make it more accessible for their users. Making the website more accessible for the end user will enable people with disabilities to access the website using a variety of assisitve technologies. This will also ensure that the site is optimized for search engines.
 
+To complete this I will be
+* Ensuring that Semantic HTML elements can be found throughout the source code
+* Checking that the HTML elements follow a logical structure
+* Providing all image and icon elements with accessible `alt` attributes
+* Ensuring that all heading attributes fall in sequential order
+* Ensuring title elements are concise and descriptive 
 
 ## Installation
 
