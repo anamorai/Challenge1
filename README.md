@@ -17,20 +17,26 @@ To open the project please follow this link:
 
 Once you open the URL, you will see the following:
 
-![This is the first thing you will see after opening the website](assets/images/Preview 1.jpg")
+![This is the first thing you will see after opening the website](assets/images/Preview-1.png)
+
 
 By clicking on the buttons in the top right, you can navigate to the sections within the page. 
 It will look like this: 
 
-![If you scroll down, it will look like this](assets/images/Preview 2.jpg")
-```
+![If you scroll down, it will look like this](assets/images/Preview-2.png)
+
+## Badges
+
+![GitHub deployments](https://img.shields.io/github/deployments/anamorai/Horiseon-on-the-job-ticket%20/github-pages)
+
+## Features
+
+- Alt text for all images and icons to increase accessibility.
 
 ## Credits
 
-I would like to refrence the following websites I used to guide me with this project:
+I would like to refrence the following website I used to guide me with the semantic attribute element of this project:
 https://www.w3schools.com/html/html5_semantic_elements.asp
-
-
 
 ## License
 
@@ -55,17 +61,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-Alt text for all images and icons to increase accessibility.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
