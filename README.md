@@ -27,7 +27,9 @@ It will look like this:
 
 ## Badges
 
-![GitHub deployments](https://img.shields.io/github/deployments/anamorai/Horiseon-on-the-job-ticket%20/github-pages)
+![GitHub deployments](https://img.shields.io/github/deployments/anamorai/Horiseon-on-the-job-ticket/github-pages)
+
+![example workflow](https://github.com/anamorai/Horiseon-on-the-job-ticket/actions/workflows/main.yml/badge.svg)
 
 ## Features
 
