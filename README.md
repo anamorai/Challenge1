@@ -11,32 +11,50 @@ To complete this I will be
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+To open the project please follow this link: 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Once you open the URL, you will see the following:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![This is the first thing you will see after opening the website](assets/images/Preview 1.jpg")
 
-```md
-![alt text](assets/images/screenshot.png)
+By clicking on the buttons in the top right, you can navigate to the sections within the page. 
+It will look like this: 
+
+![If you scroll down, it will look like this](assets/images/Preview 2.jpg")
 ```
-
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I would like to refrence the following websites I used to guide me with this project:
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+MIT License
+
+Copyright (c) [2023] [Anastasia Moraites]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges
 
@@ -46,11 +64,7 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 
 ## Features
 
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+Alt text for all images and icons to increase accessibility.
 
 ## Tests
 
