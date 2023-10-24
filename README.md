@@ -11,7 +11,7 @@ To complete this I will be
 
 ## Installation
 
-To open the project please follow this link: 
+To open the project please follow this link: https://anamorai.github.io/Horiseon-on-the-job-ticket/
 
 ## Usage 
 
